@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Group your JSON data by similer value",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "group.d.ts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
