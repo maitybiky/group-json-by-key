@@ -1,6 +1,6 @@
 {
   "name": "group-json-by-key",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Group your JSON data by similer value",
   "main": "index.js",
   "files": [
