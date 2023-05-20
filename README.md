@@ -2,6 +2,15 @@
 
 Group your JSON data by similer value
 
+## Installation
+
+Install my-project with npm
+
+```bash
+ npm i group-json-by-key
+
+```
+
 ## Usage/Examples
 
 ```javascript
@@ -12,15 +21,11 @@ import group from "group-json-by-key";
 
 ![App Screenshot](https://iili.io/HgWCnwl.md.png)
 
-## Usage/Examples
-
 ```javascript
 group(user).bySame("role");
 ```
 
 ![App Screenshot](https://i.ibb.co/BCYzMsx/carbon-1.png)
-
-## Usage/Examples
 
 ```javascript
 group(user).bySame("address.city");
